@@ -1,5 +1,5 @@
 # AtliQ Hardware Ad Hoc Insights
-
+I built this project by following the [Codebasics SQL Course] (https://codebasics.io/courses/sql-beginner-to-advanced-for-data-professionals)
 ## About Company
 AtliQ Hardware (Imaginary Company) is a global leader in hardware manufacturing, offering a diverse range of products across three main categories: peripherals & accessories, personal computers, and network storage. Our customer base is broadly classified into three groups: retailers, direct consumers, and distributors.
 
@@ -57,7 +57,7 @@ MySQL
   - Generate a report for Supply Chain Manager for identifying customers whose forecast accuracy has dropped from FY 2020 to 2021
 
 ## Report
-[Ad HOC INSIGHTS]()
+[Ad HOC INSIGHTS](https://github.com/shellynagar27/Consumer-Goods---Ad-Hoc-Analysis/blob/main/Ad%20HOC%20INSIGHTS.pdf)
 
 ## Key learnings
   - Concept of query optimisation and how to use **Explain Analyze** for better understanding of query duration and fetch time
