@@ -4,7 +4,7 @@ I built this project by following the [Codebasics SQL Course](https://codebasics
 AtliQ Hardware (Imaginary Company) is a global leader in hardware manufacturing, offering a diverse range of products across three main categories: peripherals & accessories, personal computers, and network storage. Our customer base is broadly classified into three groups: retailers, direct consumers, and distributors.
 
 ## Background
-Write SQL Queries for providing insights to make quick and smart data-informed decisions as per Product Manager need.
+Write SQL Queries for providing insights to make quick and smart data-informed decisions as per Product Manager needs.
 
 ## Database
 MySQL
