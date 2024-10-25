@@ -1,6 +1,8 @@
 # AtliQ Hardware Ad Hoc Insights
-I built this project by following the [Codebasics SQL Course](https://codebasics.io/courses/sql-beginner-to-advanced-for-data-professionals) </br>
-[Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7249848937300299777/)
+- **Domain** - Consumer Goods
+- **Function** - Executive Management
+- I built this project by following the [Codebasics SQL Course](https://codebasics.io/courses/sql-beginner-to-advanced-for-data-professionals) </br>
+- [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7249848937300299777/)
 ## About Company
 AtliQ Hardware (Imaginary Company) is a global leader in hardware manufacturing, offering a diverse range of products across three main categories: peripherals & accessories, personal computers, and network storage. Our customer base is broadly classified into three groups: retailers, direct consumers, and distributors.
 
